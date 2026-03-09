@@ -83,7 +83,7 @@ jupyter notebook nlp_topic_modelling.ipynb
 
 ## Author
 
-**Raquel Jones** - Data Scientist and Analytics Engineer
+**Raquel J.** - Data Scientist and Analytics Engineer
 
 - Portfolio: [rjdatavoyage.co.uk](https://rjdatavoyage.co.uk)
-- LinkedIn: [Raquel Jones](https://linkedin.com/in/664113153)
+- LinkedIn: [Raquel J.](https://linkedin.com/in/664113153)
